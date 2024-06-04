@@ -5,9 +5,26 @@
 }
 #box{
     display: flex;
-    gap: 15px;
+    gap: 20px;
+    background-color: rgb(175, 175, 175);
+    justify-content: space-evenly;
    }
 
 .box-content{
     text-align: center;
+    font-weight: 700;
+    padding: 35px;
 }
+.header{
+    width: 250px;
+    margin: 20px;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 15px;
+
+}
+.img-box{
+    height: 190px;
+}
+
+
